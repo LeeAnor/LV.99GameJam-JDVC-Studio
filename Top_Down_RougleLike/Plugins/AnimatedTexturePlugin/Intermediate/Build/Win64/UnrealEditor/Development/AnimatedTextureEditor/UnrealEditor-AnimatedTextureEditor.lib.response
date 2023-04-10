@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AnimatedTextureEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\game\UEProjects\Top_Down_RougleLike\Intermediate\Build\Win64\Top_Down_RougleLikeEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\game\UEProjects\Top_Down_RougleLike\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UnrealEditor\Development\AnimatedTextureEditor\Module.AnimatedTextureEditor.cpp.obj"
+"D:\game\UEProjects\Top_Down_RougleLike\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UnrealEditor\Development\AnimatedTextureEditor\Default.rc2.res"
+/OUT:"D:\game\UEProjects\Top_Down_RougleLike\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UnrealEditor\Development\AnimatedTextureEditor\UnrealEditor-AnimatedTextureEditor.lib"

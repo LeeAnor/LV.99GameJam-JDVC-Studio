@@ -1,0 +1,65 @@
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTexture\Definitions.AnimatedTexture.h
+C:/Users/DreamSnake/Desktop/UAnimatedTexture4-master/Plugins/AnimatedTexturePlugin/Source/AnimatedTexture/Private/AnimatedGIF.cpp
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\AnimatedGIF.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib/gif_lib.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\stdbool.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\locale.h
+C:/Users/DreamSnake/Desktop/UAnimatedTexture4-master/Plugins/AnimatedTexturePlugin/Source/AnimatedTexture/Private/AnimatedTexture2D.cpp
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Public\AnimatedTexture2D.h
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UE4Editor\Inc\AnimatedTexture\AnimatedTexture2D.generated.h
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\AnimatedTextureResource.h
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Public\AnimatedTextureModule.h
+C:/Users/DreamSnake/Desktop/UAnimatedTexture4-master/Plugins/AnimatedTexturePlugin/Source/AnimatedTexture/Private/AnimatedTextureModule.cpp
+C:/Users/DreamSnake/Desktop/UAnimatedTexture4-master/Plugins/AnimatedTexturePlugin/Source/AnimatedTexture/Private/AnimatedTextureResource.cpp
+D:\game\UE_4.27\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfile.h
+D:\game\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureLODSettings.h
+D:\game\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureLODSettings.generated.h
+D:\game\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeviceProfile.generated.h
+D:\game\UE_4.27\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfileManager.h
+D:\game\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeviceProfileManager.generated.h
+C:/Users/DreamSnake/Desktop/UAnimatedTexture4-master/Plugins/AnimatedTexturePlugin/Source/AnimatedTexture/Private/MaterialExpressionTextureSampleParameterAnim.cpp
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Public\MaterialExpressionTextureSampleParameterAnim.h
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UE4Editor\Inc\AnimatedTexture\MaterialExpressionTextureSampleParameterAnim.generated.h
+D:\game\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+D:\game\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+D:\game\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+D:\game\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+D:\game\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Texture2DDynamic.h
+D:\game\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture2DDynamic.generated.h
+D:\game\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+D:\game\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureCube.generated.h
+D:\game\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTargetCube.h
+D:\game\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTargetCube.generated.h

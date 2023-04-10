@@ -1,0 +1,39 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\game\\ueprojects\\top_down_rouglelike\\plugins\\animatedtextureplugin\\source\\animatedtexture\\private\\giflib\\gif_hash.c",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\stdint.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\vcruntime.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\sal.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\concurrencysal.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\vadefs.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\stdlib.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_malloc.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_search.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\stddef.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_wstdlib.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\limits.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\fcntl.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\stdio.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_wstdio.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_stdio_config.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\string.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_memory.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_memcpy_s.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\errno.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\vcruntime_string.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_wstring.h",
+            "d:\\game\\ueprojects\\top_down_rouglelike\\plugins\\animatedtextureplugin\\source\\animatedtexture\\private\\giflib\\gif_lib.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\stdbool.h",
+            "d:\\game\\ueprojects\\top_down_rouglelike\\plugins\\animatedtextureplugin\\source\\animatedtexture\\private\\giflib\\gif_hash.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\io.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_io.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_share.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_wio.h",
+            "d:\\game\\ueprojects\\top_down_rouglelike\\plugins\\animatedtextureplugin\\source\\animatedtexture\\private\\giflib\\gif_lib_private.h"
+        ]
+    }
+}

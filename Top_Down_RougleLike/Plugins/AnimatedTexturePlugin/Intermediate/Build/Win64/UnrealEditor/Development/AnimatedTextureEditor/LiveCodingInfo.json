@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AnimatedTextureEditor.cpp.obj": [
+			"AnimatedTextureEditor.init.gen.cpp.obj",
+			"AnimatedTextureFactory.gen.cpp.obj",
+			"AnimatedTextureThumbnailRenderer.gen.cpp.obj",
+			"ReimportAnimatedTextureFactory.gen.cpp.obj",
+			"AnimatedTextureEditorModule.cpp.obj",
+			"AnimatedTextureFactory.cpp.obj",
+			"AnimatedTextureThumbnailRenderer.cpp.obj",
+			"ReimportAnimatedTextureFactory.cpp.obj"
+		]
+	}
+}

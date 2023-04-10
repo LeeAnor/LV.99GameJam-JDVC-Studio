@@ -1,0 +1,16 @@
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTextureEditor\Definitions.AnimatedTextureEditor.h
+C:/Users/DreamSnake/Desktop/UAnimatedTexture4-master/Plugins/AnimatedTexturePlugin/Intermediate/Build/Win64/UE4Editor/Inc/AnimatedTextureEditor/AnimatedTextureEditor.init.gen.cpp
+D:\game\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\game\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/DreamSnake/Desktop/UAnimatedTexture4-master/Plugins/AnimatedTexturePlugin/Intermediate/Build/Win64/UE4Editor/Inc/AnimatedTextureEditor/AnimatedTextureFactory.gen.cpp
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor/Public/AnimatedTextureFactory.h
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UE4Editor\Inc\AnimatedTextureEditor\AnimatedTextureFactory.generated.h
+C:/Users/DreamSnake/Desktop/UAnimatedTexture4-master/Plugins/AnimatedTexturePlugin/Intermediate/Build/Win64/UE4Editor/Inc/AnimatedTextureEditor/AnimatedTextureThumbnailRenderer.gen.cpp
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor/Public/AnimatedTextureThumbnailRenderer.h
+D:\game\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+D:\game\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UE4Editor\Inc\AnimatedTextureEditor\AnimatedTextureThumbnailRenderer.generated.h
+C:/Users/DreamSnake/Desktop/UAnimatedTexture4-master/Plugins/AnimatedTexturePlugin/Intermediate/Build/Win64/UE4Editor/Inc/AnimatedTextureEditor/ReimportAnimatedTextureFactory.gen.cpp
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor/Public/ReimportAnimatedTextureFactory.h
+D:\game\UE_4.27\Engine\Source\Editor\UnrealEd\Public\EditorReimportHandler.h
+C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UE4Editor\Inc\AnimatedTextureEditor\ReimportAnimatedTextureFactory.generated.h

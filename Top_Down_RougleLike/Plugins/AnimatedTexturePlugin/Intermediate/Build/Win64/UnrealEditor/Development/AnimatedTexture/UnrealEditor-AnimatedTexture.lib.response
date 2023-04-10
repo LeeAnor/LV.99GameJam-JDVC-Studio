@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AnimatedTexture.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\game\UEProjects\Top_Down_RougleLike\Intermediate\Build\Win64\Top_Down_RougleLikeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\game\UEProjects\Top_Down_RougleLike\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UnrealEditor\Development\AnimatedTexture\Module.AnimatedTexture.cpp.obj"
+"D:\game\UEProjects\Top_Down_RougleLike\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UnrealEditor\Development\AnimatedTexture\dgif_lib.c.obj"
+"D:\game\UEProjects\Top_Down_RougleLike\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UnrealEditor\Development\AnimatedTexture\gifalloc.c.obj"
+"D:\game\UEProjects\Top_Down_RougleLike\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UnrealEditor\Development\AnimatedTexture\gif_err.c.obj"
+"D:\game\UEProjects\Top_Down_RougleLike\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UnrealEditor\Development\AnimatedTexture\gif_hash.c.obj"
+"D:\game\UEProjects\Top_Down_RougleLike\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UnrealEditor\Development\AnimatedTexture\openbsd-reallocarray.c.obj"
+"D:\game\UEProjects\Top_Down_RougleLike\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UnrealEditor\Development\AnimatedTexture\Default.rc2.res"
+/OUT:"D:\game\UEProjects\Top_Down_RougleLike\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UnrealEditor\Development\AnimatedTexture\UnrealEditor-AnimatedTexture.lib"

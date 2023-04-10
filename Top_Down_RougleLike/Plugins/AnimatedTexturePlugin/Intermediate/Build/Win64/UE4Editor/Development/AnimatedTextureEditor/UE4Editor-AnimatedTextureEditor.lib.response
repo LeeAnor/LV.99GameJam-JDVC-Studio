@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AnimatedTextureEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Intermediate\Build\Win64\AnimatedTextureDemoEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTextureEditor\Module.AnimatedTextureEditor.cpp.obj"
+"C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTextureEditor\Module.AnimatedTextureEditor.gen.cpp.obj"
+"C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTextureEditor\Default.rc2.res"
+/OUT:"C:\Users\DreamSnake\Desktop\UAnimatedTexture4-master\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\UE4Editor\Development\AnimatedTextureEditor\UE4Editor-AnimatedTextureEditor.lib"

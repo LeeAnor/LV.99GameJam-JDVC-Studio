@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\game\\ueprojects\\top_down_rouglelike\\plugins\\animatedtextureplugin\\source\\animatedtexture\\private\\giflib\\gif_err.c",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\stdio.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\vcruntime.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\sal.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\concurrencysal.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\vadefs.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_wstdio.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_stdio_config.h",
+            "d:\\game\\ueprojects\\top_down_rouglelike\\plugins\\animatedtextureplugin\\source\\animatedtexture\\private\\giflib\\gif_lib.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\stddef.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\stdbool.h",
+            "d:\\game\\ueprojects\\top_down_rouglelike\\plugins\\animatedtextureplugin\\source\\animatedtexture\\private\\giflib\\gif_lib_private.h",
+            "d:\\game\\ueprojects\\top_down_rouglelike\\plugins\\animatedtextureplugin\\source\\animatedtexture\\private\\giflib\\gif_hash.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\io.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_io.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_share.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\corecrt_wio.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\include\\stdint.h"
+        ]
+    }
+}
